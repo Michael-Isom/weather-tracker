@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "weather",
+			"path": "../../../../../weather"
+		},
+		{
+			"name": "client",
+			"path": "../../../client"
+		},
+		{
+			"name": "server",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
