@@ -1,5 +1,5 @@
 import express from 'express';
-import WeatherService from '../../service/weatherService'; // Adjusted path if necessary
+import WeatherService from '../../service/weatherService.js'; // Adjusted path if necessary
 
 const router = express.Router();
 

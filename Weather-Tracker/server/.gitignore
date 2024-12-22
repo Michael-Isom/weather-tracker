@@ -39,8 +39,9 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
-jspm_packages/
+# Commented out to stop ignoring these directories
+# node_modules/
+# jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -73,11 +74,12 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
-.env.development.local
-.env.test.local
-.env.production.local
-.env.local
+# Commented out to stop ignoring .env
+# .env
+# .env.development.local
+# .env.test.local
+# .env.production.local
+# .env.local
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -89,6 +91,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
+# dist  // Commented out to stop ignoring dist folder
 dist
 
 # Gatsby files
