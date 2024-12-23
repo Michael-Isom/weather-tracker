@@ -63,7 +63,5 @@ Technologies Used
 
 
 
-<img width="1728" alt="Screenshot 2024-12-20 at 11 24 14 AM" src="https://github.com/user-attachments/assets/84abbd80-15e1-4510-a56b-b8ba938e5d83" />
+<img width="1728" alt="Screenshot 2024-12-22 at 6 00 40 PM" src="https://github.com/user-attachments/assets/6164ef8a-1195-4ac4-8b8a-c04a79593cd5" />
 
-
- <img width="1728" alt="Screenshot 2024-12-20 at 11 24 14 AM" src="https://github.com/user-attachments/assets/c95efdb5-f6a1-4d18-a7a2-39c40b67c1bf" />
