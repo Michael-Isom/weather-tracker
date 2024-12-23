@@ -1,5 +1,5 @@
 Weather Tracker
-![Uploading Screenshot 2024-12-20 at 11.24.14 AM.png…]()
+
 
 Weather Tracker is a web application that allows users to track the weather of different cities, including current conditions and 5-day forecasts. The app uses the OpenWeatherMap API to retrieve weather data and displays it to users in an intuitive interface.
 
@@ -60,3 +60,10 @@ Technologies Used
 	•	Backend: Node.js, Express.js
 	•	API: OpenWeatherMap API
 	•	Styling: CSS
+
+
+
+<img width="1728" alt="Screenshot 2024-12-20 at 11 24 14 AM" src="https://github.com/user-attachments/assets/84abbd80-15e1-4510-a56b-b8ba938e5d83" />
+
+
+ <img width="1728" alt="Screenshot 2024-12-20 at 11 24 14 AM" src="https://github.com/user-attachments/assets/c95efdb5-f6a1-4d18-a7a2-39c40b67c1bf" />
